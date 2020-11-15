@@ -264,7 +264,12 @@ void *object::create_thread(void* arg){
     int *index = (int *) arg;
     int index_ = *index;
     printf("%i\n", index_);
-    apply_filter(index_);
+    int index_in_while = index_*100;
+    int finish = index_in_while + 99;
+    while (index_in_while <= finish){
+        apply_filter(index_in_while);
+        index_in_while++;
+    }
 }
 int isspace(int argument);
 
