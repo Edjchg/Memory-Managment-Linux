@@ -14,7 +14,6 @@ int main() {
     for (int i = 0; i < 10000; i++){
         list_of_objects[i].set_name("image");
         indexes[i] = i;
-        //list_of_objects[i].apply_filter(i);
     }
 
     pthread_t threads_list[10000];
