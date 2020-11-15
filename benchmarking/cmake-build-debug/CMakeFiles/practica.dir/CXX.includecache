@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/practica/cmake-build-debug/object.h
+cstring
+-
+string
+-
+
+/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/practica/main.cpp
+iostream
+-
+cmake-build-debug/object.h
+/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/practica/cmake-build-debug/object.h
+string
+-
+png.h
+/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/practica/png.h
+pthread.h
+/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/practica/pthread.h
+
+/usr/include/libpng16/png.h
+pnglibconf.h
+/usr/include/libpng16/pnglibconf.h
+pngconf.h
+/usr/include/libpng16/pngconf.h
+
+/usr/include/libpng16/pngconf.h
+limits.h
+-
+stddef.h
+-
+stdio.h
+-
+setjmp.h
+-
+time.h
+-
+
+/usr/include/libpng16/pnglibconf.h
+

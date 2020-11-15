@@ -1,0 +1,3 @@
+/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/practica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/practica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/practica/cmake-build-debug/CMakeFiles/practica.dir
