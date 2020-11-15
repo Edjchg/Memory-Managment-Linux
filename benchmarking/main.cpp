@@ -6,11 +6,7 @@ using namespace std;
 #include "pthread.h"
 int main() {
     char image[] = "/home/edgar/Documentos/Principios_de_SO/Taller4_Lab4/brain_492.pgm";
-    /*
-    object Imagen1;
-    Imagen1.set_image(image);
-    Imagen1.set_name("asd");
-    Imagen1.apply_filter(0);*/
+    
 
     object list_of_objects[10000];
     int indexes[10000];
